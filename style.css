@@ -44,6 +44,7 @@ p{
     width: calc(94%/3);
     margin: 10px;
     text-align: left;
+    box-shadow: 10px 15px 15px #555555;
 }
 
 img{
