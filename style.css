@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka One', cursive;
+}
+
+.center-bloc{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+header{
+    margin-bottom: 40px;
+}
+
+h1{
+    color: red;
+    font-weight: 900;
+}
+
+section{
+    margin-bottom: 40px;
+}
+
+p{
+    color: black;
+}
